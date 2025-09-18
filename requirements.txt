@@ -1,0 +1,4 @@
+requests>=2.31.0
+colorama>=0.4.6
+# optional (if you want fancier banners): pyfiglet
+# pyfiglet>=0.8.post1

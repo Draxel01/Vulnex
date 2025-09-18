@@ -1,0 +1,23 @@
+[
+  {
+    "id": "apache-traversal-2021",
+    "pattern": "Apache/2\\.4\\.49",
+    "service": "Apache HTTPD",
+    "cve": "CVE-2021-41773",
+    "summary": "Path traversal & RCE in Apache 2.4.49/2.4.50 (if unpatched)."
+  },
+  {
+    "id": "openssl-heartbleed",
+    "pattern": "OpenSSL/1\\.0\\.1",
+    "service": "OpenSSL",
+    "cve": "CVE-2014-0160",
+    "summary": "Heartbleed vulnerability (legacy)."
+  },
+  {
+    "id": "nginx-outdated",
+    "pattern": "nginx/1\\.16\\.0",
+    "service": "nginx",
+    "cve": "N/A",
+    "summary": "Outdated nginx version detected - check vendor changelogs."
+  }
+]
