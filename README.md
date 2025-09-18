@@ -6,7 +6,7 @@ Vulnex is a compact hybrid vulnerability scanner (network + web) intended as a l
 
 ## Quickstart
 ```bash
-git clone https://github.com/<you>/vulnex.git
+git clone https://github.com/Draxel01/vulnex.git
 cd vulnex
 python3 -m venv .venv
 source .venv/bin/activate
